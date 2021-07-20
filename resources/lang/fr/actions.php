@@ -10,5 +10,10 @@ return [
     'verify' => 'Vérifier',
 
     'yes' => 'Oui',
-    'no' => 'Non'
+    'no' => 'Non',
+
+    'invite' => 'Inviter',
+
+    'accept' => 'Accepter',
+    'deny' => 'Refuser'
 ];
